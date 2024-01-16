@@ -8,7 +8,7 @@ public class BankAccountPanel extends JFrame {
     private JTextField nameField, pinField, numberField, balanceField;
     private JButton displayButton;
 
-    private BankAccount bankAccount; // Added BankAccount instance
+    private BankAccount bankAccount;
 
     public BankAccountPanel() {
         // Setting up the JFrame
